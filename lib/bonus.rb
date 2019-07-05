@@ -23,7 +23,7 @@ def bonus
   #code your solution here:
   #epic_tragedy[0[2[2]]] = "dead"
   #epic_tragedy[1[2[2]]] = "dead"
-  epic_tragedy[:montague[:hero[:status]]] = "dead"
+  epic_tragedy[:montague][:hero][:status] = "dead"
   #epic_tragedy[:capulet[:heroine[:status]]] = "dead"
 
 
